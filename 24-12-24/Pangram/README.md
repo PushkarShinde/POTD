@@ -1,4 +1,5 @@
 # Pangram Checker
+[Codeforces Problem - Pangram](https://codeforces.com/problemset/problem/520/A?mobile=false)
 
 This project solves the problem of determining whether a given string is a pangram. A pangram is a sentence or word that contains every letter of the alphabet at least once, regardless of case.
 
