@@ -1,7 +1,7 @@
 # [B. Permutation Swap](https://codeforces.com/problemset/problem/1828/B).
 
 ## Problem Statement
-You are given an unsorted permutation \( p_1, p_2, \ldots, p_n \). To sort the permutation, you choose a constant \( k \) \((k \geq 1)\) and perform some operations on the permutation. In one operation, you can:
+You are given an unsorted permutation \( p_1, p_2, \ldots, p_n \). To sort the permutation, you choose a constant \( k \) \((k \geq 1)\) and perform some operations on the permu tation. In one operation, you can:
 - Choose two integers \( i \), \( j \) \((1 \leq j < i \leq n)\) such that \( i - j = k \).
 - Swap \( p_i \) and \( p_j \).
 
